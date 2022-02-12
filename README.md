@@ -44,4 +44,4 @@ python3 main.py
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* `Special Thanks Dump Group Members`🤣
+* `Special Thanks Dump Group Members`
